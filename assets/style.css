@@ -328,11 +328,15 @@ input[type="submit"] {
 	.top-header .nav, .top-header .nav ul {
 		width: 100%;
 		padding: 0 0 0 0;
+		font-size: 12px;
 	}
 	.top-header .nav li {
 		flex: 1;
 		padding-block: 1em;
 		text-align: center;
+	}
+	.social-link img {
+		width: 20px;
 	}
 	.picture.left::before, .picture.right::before {
 		height: 150px;
