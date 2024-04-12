@@ -87,7 +87,6 @@ body {
 }
 #about-me p{
 	width: 70%;
-	text-align: justify;
 }
 .about-m__paragraph {
 	font-size: 16px;
@@ -143,7 +142,6 @@ body {
 	width: 70%;
 	margin: auto;
 	padding-block: 3em;
-	text-align: justify;
 }
 .quote__text {
 	font-family: Spectral;
@@ -191,9 +189,6 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 	z-index: 1;
-}
-.service__price p{
-	font-size: 24px;
 }
 
 #contact {
